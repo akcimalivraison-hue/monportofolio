@@ -1,2 +1,2 @@
 Modification gaite depuis Github.
-proet développé avec Github.
+Projet cree avec Git.
